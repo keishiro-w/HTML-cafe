@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KUJIRA Cafeへようこそ</title>
+</head>
+<body>
+
+<h1><a href="index.html">KUJIRA Cafe</a></H1>
+<nav>
+	<ul>
+		<li><a href="index.html">ホーム</a></li>
+		<li><a href="about.html">店舗案内</a></li>
+		<li><a href="access.html">アクセス</a></li>
+		<li><a href="menu.html">メニュー</a></li>
+		<li><a href="contact.html">お問い合わせ</a></li>
+	</ul>
+</nav>
+
+<h2>News</h2>
+<p>2199年4月29日（土）は、九寺楽町の春祭りに出店するため、お店は休業させていたただきます。春祭りでタルトやキッシュ、コーヒーも販売するので、ぜひお越しください。</p>
+<p>2199年3月20日（月・祝）は、18時からアコースティックギターデュオ「<a href="http://blog.livedoor.jp/meda3594/" target=" blank">PICNIC</a>」のライブを開催します。投げ銭方式です。お楽しみに！</p>
+</body>
+</html>
